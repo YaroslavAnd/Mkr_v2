@@ -1,0 +1,6 @@
+/producer/target/
+/consumer/target/
+*.log
+.DS_Store
+.idea/
+.vscode/
